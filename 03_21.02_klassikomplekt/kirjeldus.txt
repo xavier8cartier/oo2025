@@ -1,0 +1,5 @@
+Kõik tulemused peavad minema selle sportlase „külge“. Saada näiteks päringuga lisaks tulemusele kaasa ka ID.
+
+Võimalda saada sportlase kogusumma küsimise hetkeks (kui on sisestatud 6 ala, siis tagastatakse 6 ala kogusumma).
+
+Tee võimalus küsida kõiki sportlasi koos nende punktisummadega.

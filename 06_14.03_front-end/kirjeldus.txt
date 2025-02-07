@@ -1,0 +1,1 @@
+Kümnevõistlusele lihtne front-end. Näitprogramm
