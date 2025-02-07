@@ -1,1 +1,1 @@
-Kümnevõistlusele lihtne front-end. Näitprogramm
+Kümnevõistlusele lihtne front-end. Kõik back-endis tehtud peab olema kasutusel front-endis.
