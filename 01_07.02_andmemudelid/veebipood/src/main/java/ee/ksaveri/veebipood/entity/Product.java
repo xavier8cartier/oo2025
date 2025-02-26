@@ -28,3 +28,18 @@ public class Product {
     private boolean active;
 
 }
+
+//kui on vaike tahega:
+// long
+// char
+// double
+// boolean
+// primitiivsed vaartused. ainult vaartuse hoidmiseks
+
+//kui on suure tahega:
+// Long
+// String
+// Character
+// Double
+// Boolean
+// Suured vaartused.
